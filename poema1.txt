@@ -1,1 +1,19 @@
-despues me invento el poema 
+La luna brilla en lo alto del cielo,
+como una base de datos que guarda en su velo
+los secretos del universo y la historia,
+que espera ser descifrada con astucia y memoria.
+
+Programación orientada a la base de datos,
+es como un astronauta explorando esos datos,
+en busca de patrones y relaciones,
+para encontrar respuestas y hacer nuevas creaciones.
+
+Así como la luna cambia de fase y se transforma,
+las bases de datos evolucionan y se reforman,
+con cada actualización y mejora,
+más eficientes y poderosas se vuelven, cual aurora.
+
+Por eso, como la luna ilumina la noche,
+la programación orientada a la base de datos nos conduce a la cima,
+de la innovación y el conocimiento,
+para crear soluciones que nos lleven al siguiente hito.
